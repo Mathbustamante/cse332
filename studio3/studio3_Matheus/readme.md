@@ -1,5 +1,4 @@
-Group Members: (This studio was done for practice purpuse) I worked together with Zihao Chen in this studio which can be found on his repository.
-	1. Matheus Bustamante (mbustamante)
+
 
 //////////////////////////////////////////////
 
