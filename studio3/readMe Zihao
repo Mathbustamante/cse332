@@ -1,0 +1,12 @@
+1.Zihao Chen, Matheus Bustamante
+2.The program produced "studio_3.exe", which is the name of the program itself. The name of the program is always stored in
+position 0 of the argument vector.
+3."studio_3.exe" in one column. 
+4. 1)reference in c++ acts as the object itself while pointer stores the memory address of the object. 2)reference has to be
+initialized to refer to an oject and only this object, while pointers can be initialized by pointing to nothing and the object
+it points to can be changed. 3)reference must be typed, while pointer doesn't necessarily.
+In this particular case, the program produces unreadable results. Since reference acts as the object, incrementing r changes the
+object's value as well, thus the result is unexpected.
+5.Didn't see any difference
+6.* operator dereferences the pointer which is used to get the content of the argument. ++ is used to increment the address to
+look for.
