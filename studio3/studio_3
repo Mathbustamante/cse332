@@ -1,0 +1,32 @@
+// studio_3.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include "iostream"
+using namespace std;
+
+
+int main(int argc, char * argv[])
+{
+	/*for (const char *p = *argv; *p != '\0'; ++p)
+	{
+		cout << *p << endl;
+	}*/
+	int c = 0;
+	const char *p = *argv;
+	while (c < argc)
+	{
+		while (*p != '\0')
+		{
+			cout << *p;
+			++p;
+		}
+		cout << endl;
+		++p;
+		++c;
+	}
+
+	//cout << *argv << endl;
+
+	return 0;
+}
