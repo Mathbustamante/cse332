@@ -1,6 +1,6 @@
 #Group Members:
-	1. Matheus Bustamante
-	2. Zihao Chen
+-Matheus Bustamante
+-Zihao Chen
 
 1. I got an error saying debug assertion Failed. And asked me to abort. 
 
@@ -13,6 +13,7 @@ Since we already calling an out of bounds exception in squareElement we dont nee
 divideSquaredElements because divideSquaredElements calls squareElement. 
 
 4. 
+
 Call: divideSquaredElements(my_vec, 2, 0) with valid inputs:
 H:\332\studios\Studio6\development_environment_studio6\Debug>development_environment_studio6.exe
 4
