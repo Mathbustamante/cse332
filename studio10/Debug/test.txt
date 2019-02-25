@@ -1,0 +1,5 @@
+a 2
+day 2
+good 2
+is 2
+today 2
